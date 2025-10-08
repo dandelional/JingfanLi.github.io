@@ -11,7 +11,7 @@ I am an undergraduate student in [Software Engineering](https://cs.nankai.edu.cn
 
 I have strong research skills and engineering expertise, including hands-on experience with deep learning frameworks implementation, experimental design, and system-level programming. In the future, I aim to focus on developing efficient and reliable AI systems at the intersection of multimodal representation learning and large model optimization/deployment, addressing key challenges in real-world application scenarios.
 
-You can find my CV here: [Jingfan Li's Curriculum Vitae](../assets/CV_JingfanLi.pdf).
+You can find my CV here: [Jingfan Li's Curriculum Vitae](https://dandelional.github.io/JingfanLi.github.io/assets/CV_JingfanLi.pdf).
 
 > I am actively looking for **PhD opportunities** starting in **Fall 2026**.
 
