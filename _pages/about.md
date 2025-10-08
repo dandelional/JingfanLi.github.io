@@ -1,14 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an undergraduate student in Software Engineering at Nankai University, expected to graduate in 2026. My research interests lie primarily in Machine Learning, Multimodal Learning, and Large Language Models ($\text{LLM}$s).
+I am an undergraduate student in Software Engineering at Nankai University, expected to graduate in 2026. My primary research interests lie in Machine Learning, Multimodal Learning, and Large Language Models ($\text{LLM}$s).
 
+I have strong research skills and engineering expertise, including hands-on experience with deep learning frameworks implementation, experimental design, and system-level programming. In the future, I aim to focus on developing efficient and reliable AI systems at the intersection of multimodal representation learning and large model optimization/deployment, addressing key challenges in real-world application scenarios.
 
+> I am actively looking for **PhD opportunities** starting in **Fall 2026**.
 
-I am passionate about designing and implementing efficient AI systems, gaining hands-on experience with LLM fine-tuning and inference optimization during my internship at Chinasoft International. Currently, I focus on the interplay between Generative Models (Diffusion, $\text{GAN}$s) and controllability/multimodal alignment. My background also includes strong fundamentals in system-level programming and optimization, demonstrated by my coursework in Operating Systems (98) and Compiler Principles (99).
+---
+
+## Research Interests
+
+* **Multimodal Learning** (Representation and Alignment)
+* **Large Language Models ($\text{LLM}$s) Optimization** (Quantization, Deployment)
+* **Generative Models** ($\text{AIGC}$ / Diffusion)
+* **Algorithm Design and System Optimization**
+
+---
+
+## Education
+
+### B.S. in Software Engineering, expected 2026
+**Nankai University, Tianjin, China**
