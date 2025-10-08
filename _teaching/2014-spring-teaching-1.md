@@ -3,7 +3,7 @@ title: "National Encouragement Scholarship"
 collection: awards
 type: "Scholarship"
 permalink: /awards/2024-2025 scholarship
-date: 2025-09
+date: 2025-09-01
 location: "Tianjin, China"
 ---
 
