@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in Software Engineering at Nankai University, expected to graduate in 2026. My primary research interests lie in Machine Learning, Multimodal Learning, and Large Language Models (LLMs).
+I am an undergraduate student in [Software Engineering](https://cs.nankai.edu.cn/) at [Nankai University](https://www.nankai.edu.cn/), expected to graduate in 2026. My primary research interests lie in Machine Learning, Multimodal Learning, and Large Language Models (LLMs).
 
 I have strong research skills and engineering expertise, including hands-on experience with deep learning frameworks implementation, experimental design, and system-level programming. In the future, I aim to focus on developing efficient and reliable AI systems at the intersection of multimodal representation learning and large model optimization/deployment, addressing key challenges in real-world application scenarios.
+
+You can find my CV here: [Jingfan Li's Curriculum Vitae](../assets/CV_JingfanLi.pdf).
 
 > I am actively looking for **PhD opportunities** starting in **Fall 2026**.
 
