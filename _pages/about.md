@@ -18,7 +18,7 @@ You can find my CV here: [Jingfan Li's Curriculum Vitae](https://dandelional.git
 ---
 
 ## Research Interests
-
+ 
 * Multimodal Learning
 * Large Language Models (LLMs) Optimization
 * Generative Models
