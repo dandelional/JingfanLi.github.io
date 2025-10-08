@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in Software Engineering at Nankai University, expected to graduate in 2026. My primary research interests lie in Machine Learning, Multimodal Learning, and Large Language Models ($\text{LLM}$s).
+I am an undergraduate student in Software Engineering at Nankai University, expected to graduate in 2026. My primary research interests lie in Machine Learning, Multimodal Learning, and Large Language Models (LLMs).
 
 I have strong research skills and engineering expertise, including hands-on experience with deep learning frameworks implementation, experimental design, and system-level programming. In the future, I aim to focus on developing efficient and reliable AI systems at the intersection of multimodal representation learning and large model optimization/deployment, addressing key challenges in real-world application scenarios.
 
@@ -17,9 +17,9 @@ I have strong research skills and engineering expertise, including hands-on expe
 
 ## Research Interests
 
-* **Multimodal Learning** (Representation and Alignment)
-* **Large Language Models ($\text{LLM}$s) Optimization** (Quantization, Deployment)
-* **Generative Models** ($\text{AIGC}$ / Diffusion)
+* **Multimodal Learning**
+* **Large Language Models (LLMs) Optimization**
+* **Generative Models**
 * **Algorithm Design and System Optimization**
 
 ---
