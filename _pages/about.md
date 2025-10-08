@@ -17,14 +17,14 @@ I have strong research skills and engineering expertise, including hands-on expe
 
 ## Research Interests
 
-* **Multimodal Learning**
-* **Large Language Models (LLMs) Optimization**
-* **Generative Models**
-* **Algorithm Design and System Optimization**
+* Multimodal Learning
+* Large Language Models (LLMs) Optimization
+* Generative Models
+* Algorithm Design and System Optimization
 
 ---
 
 ## Education
 
 ### B.S. in Software Engineering, expected 2026
-**Nankai University, Tianjin, China**
+Nankai University, Tianjin, China
